@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Stri",
+				"StringBuilder"
+			],
+			[
+				"Ser",
+				"ServletOutputStream"
+			],
+			[
+				"Serv",
+				"ServletContext"
+			],
+			[
+				"Upload",
+				"UploadServlet"
+			],
+			[
+				"printer",
+				"printerid"
+			],
+			[
+				"print_",
+				"print_shop"
+			],
+			[
+				"paypal",
+				"paypal-payKey"
+			],
+			[
+				"payment",
+				"payment_gateway"
+			],
+			[
+				"t",
+				"time_adjust"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"current_user",
+				"current_user_can"
+			],
+			[
+				"request",
+				"requestDemo"
+			],
+			[
+				"paymen",
+				"payment-gateway"
+			],
+			[
+				"print-cot",
+				"print-cost-table"
+			],
+			[
+				"print-",
+				"print-cost-row"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"print",
+				"print_shop_url"
+			],
+			[
+				"prit",
+				"print_shop_url_arr"
+			],
+			[
+				"file",
+				"file_fields"
+			],
+			[
+				"form",
+				"form_fields"
+			],
+			[
+				"foe",
+				"form_fields"
+			],
+			[
+				"form-",
+				"form-fields"
+			],
+			[
+				"copies",
+				"copies"
+			],
+			[
+				"job",
+				"job_time"
+			],
+			[
+				"conv",
+				"converted_time"
+			],
+			[
+				"sql",
+				"sql_end_date"
+			],
+			[
+				"sql_",
+				"sql_start_date"
+			],
+			[
+				"start",
+				"start_date_day"
+			],
+			[
+				"star",
+				"start_date_month"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"wp_",
+				"wp_job_date"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"bl",
+				"blackBoxSpace"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"print_shop",
+				"print_shop_url"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"credits",
+				"credits_needed"
+			],
+			[
+				"wp_range",
+				"wp_job_range_from"
+			],
+			[
+				"wp_job_page",
+				"wp_job_page_fitting"
+			],
+			[
+				"wp_job_pap",
+				"wp_job_paper_size"
+			],
+			[
+				"wp_job",
+				"wp_job_paper_type"
+			],
+			[
+				"wp",
+				"wp_print_shop"
+			],
+			[
+				"no",
+				"no_of_pages"
+			],
+			[
+				"paym",
+				"paymentMssg"
+			],
+			[
+				"pay",
+				"paymentMssg"
+			],
+			[
+				"uplo",
+				"upload_result"
+			],
+			[
+				"curren",
+				"current_credits"
+			],
+			[
+				"recharge",
+				"rechargeCredits"
+			],
+			[
+				"download",
+				"download_json"
+			],
+			[
+				"range",
+				"range_from"
+			],
+			[
+				"STAND",
+				"STANDARD_MONOCHROME"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"get",
+				"getKey"
+			],
+			[
+				"sorted",
+				"sortedInRev"
+			],
+			[
+				"ans",
+				"ansKeyFile"
+			],
+			[
+				"wro",
+				"wrongAnswers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WEB-INF/paperList.jsp",
+			"settings":
+			{
+				"buffer_size": 3260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "WEB-INF/classes/WebPortal.java",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "WEB-INF/web.xml",
+			"settings":
+			{
+				"buffer_size": 3256,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/tomcat/webapps/test",
+		"/C/xampp/tomcat/webapps/test/dev-files",
+		"/C/xampp/tomcat/webapps/test/uploads",
+		"/C/xampp/tomcat/webapps/test/WEB-INF",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes"
+	],
+	"file_history":
+	[
+		"/C/Users/hridayns/Work/Unity/New Unity Project/Assets/CameraController.js",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/pig_script.pig",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/chat.txt",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/time_hits/part-r-00000",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/test.txt",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/pig_test_script.pig",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/raw_data/part-m-00000",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/WebPortal.java",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/Vagrantfile",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/steps.txt",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/sample_log",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/hits_per_day/part-r-00000",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/top_page_res/part-r-00000",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/top_page_res/_SUCCESS",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/top_page_res/.part-r-00000.crc",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/top_page_res/._SUCCESS.crc",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/pig_setup_bash.txt",
+		"/C/Users/hridayns/Work/bigdata-hackstreet/shareFiles/pig_setup_bash.sh",
+		"/C/Users/hridayns/Work/Unity/New Unity Project/Assets/Scripts/PlayerController.cs",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/ApproveServlet.java",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/index.jsp",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/UploadServlet.java",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/LoginServlet.java",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/HomeController.java",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/uploadingForm.jsp",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/DownloadServlet.java",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/web.xml",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/PaperList.java",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/Logout.java",
+		"/C/xampp/tomcat/webapps/test/dev-files/todo-list.txt",
+		"/C/xampp/tomcat/webapps/test/dev-files/readDB.jsp",
+		"/C/xampp/tomcat/webapps/test/dev-files/message.jsp",
+		"/C/xampp/tomcat/webapps/test/readDB.jsp",
+		"/C/xampp/tomcat/webapps/test/message.jsp",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/faq.php",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/FileServlet.java",
+		"/C/xampp/tomcat/webapps/test/uploadingForm.jsp",
+		"/C/xampp/tomcat/webapps/test/index.jsp",
+		"/C/xampp/tomcat/webapps/session-example/WEB-INF/web.xml",
+		"/C/xampp/tomcat/webapps/test/header.jsp",
+		"/C/xampp/tomcat/webapps/test/WEB-INF/classes/UploadServlet1.java",
+		"/C/xampp/tomcat/webapps/test/ajp-uploader.sublime-project",
+		"/C/Users/hridayns/Work/google cloud print web app - semi automate test/direct-print/direct-print-web-app-pricing.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/direct-print-web-app.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/functions.php",
+		"/C/Users/hridayns/Work/google cloud print web app - semi automate test/direct-print/functions.php",
+		"/C/xampp/tomcat/webapps/servlet-example/MyServlet.java",
+		"/C/xampp/tomcat/webapps/servlet-example/servlet.java",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/payment-gateway.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/thank-you.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/wp-config.php",
+		"/C/xampp/tomcat/webapps/test/UploadFile.jsp",
+		"/C/xampp/tomcat/webapps/examples/WEB-INF/web.xml",
+		"/C/xampp/tomcat/conf/server.xml",
+		"/C/xampp/tomcat/conf/web.xml",
+		"/C/xampp/tomcat/conf/context.xml",
+		"/C/xampp/tomcat/webapps/test/upload-file.jsp",
+		"/C/xampp/tomcat/webapps/test/FileUploadServlet.java",
+		"/C/xampp/tomcat/webapps/test/upload.java",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/remote-support-download-steps.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/printer-registration-steps.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/direct-print-web-app-jobs.php",
+		"/C/xampp/tomcat/webapps/test/upload.jsp",
+		"/C/xampp/tomcat/webapps/test/uploadImage.jsp",
+		"/C/xampp/tomcat/webapps/test/UploadImage.java",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/students-xerox.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/student-xerox-jobs.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/direct-print-web-app-pricing.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/template-parts/page/content-front-page.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/template-parts/header/header-image.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/style.css",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/js/script.js",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/print-pricing.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/printer-activation-form.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/style1.css",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/template-parts/navigation/navigation-top.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/navigation-top.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/template-parts/header/site-branding.php",
+		"/C/Users/hridayns/Work/Wordy - Wordpress/child templates/discover-child/style.css",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/footer.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/header-image.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/login.php",
+		"/C/Users/hridayns/Work/Wordy - Wordpress/child templates/discover-child/functions.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/login-register.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/header.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/site-branding.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/penguin-xerox-jobs.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/penguin-xerox.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/jobs-php.txt",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/jobs/index.php",
+		"/C/Users/hridayns/Work/google cloud print web app - phpmyadmin fix/direct-print/index1.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/login-register.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/config.inc.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/my.cnf",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/bitnami_application_password",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/index.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/index1.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/wp-config.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/style.css",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/buy-credits.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/index.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/wp-config.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/thank-you.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/functions.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/page.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/front-page.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct-print/single.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/style.css",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/form-page.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/instamojo-php-master/vendor/autoload.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/unzipper-master/unzipper.php",
+		"/C/Users/hridayns/Work/Wordy - Wordpress/child templates/discover-child/front-page.php",
+		"/C/Users/hridayns/Work/Wordy - Wordpress/child templates/discover-child/header.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/header.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/TestCode/child-theme/index.php",
+		"/C/Users/hridayns/Work/Wordy - Wordpress/child templates/discover-child/contest-page.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/gcpAuth.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/error_log",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/gcpTest.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/direct_print_key.json",
+		"/C/Users/hridayns/Desktop/caps.json",
+		"/C/Windows/System32/spool/drivers/x64/3/EP0NCA8T.CMB",
+		"/C/Windows/System32/spool/drivers/x64/3/GCP_DRIVER.BUD",
+		"/C/Windows/System32/spool/drivers/x64/3/ADPDF9.PPD",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/index1.html",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/gcpTest1.php",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/service_account_pvt_key.json",
+		"/C/Users/hridayns/Work/Google Cloud Print web App/gcpPrinterShare.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sync",
+			"updatedRows",
+			"File",
+			"printwriter",
+			"pst",
+			"')\";",
+			"s.",
+			"{",
+			"pst",
+			"response",
+			"wp_jobs",
+			"credits",
+			"cre",
+			"$_SESSION['errors']",
+			"credits",
+			"What is the advantage",
+			"hriday",
+			"buyCreditsPaypal",
+			"debug",
+			"payment",
+			"file",
+			"context",
+			"temp",
+			"c:\\\\temp",
+			"upload",
+			"header",
+			"submit",
+			"job",
+			"buy",
+			"cred",
+			"40b5907b-1714-17af-976f-af3c94cdc0df",
+			"printerid",
+			"job",
+			"selected=\"selected\"",
+			"nileshsan",
+			"hridaysanghvi",
+			"FILTER",
+			"foreach",
+			"print job form",
+			"form",
+			"a href",
+			"back",
+			"buy",
+			"debug",
+			"activate",
+			"print-cost-heading",
+			"PRINTER 1",
+			"form-field",
+			"rgb(",
+			"menu-scroll-down",
+			"media queries",
+			"z-index",
+			"media queries",
+			".wrap",
+			".site-title",
+			"header",
+			"media",
+			"font-size",
+			"@media screen",
+			"@media screen and ",
+			"@media screen and (min-width: ",
+			"media queries",
+			"media",
+			"file",
+			"cost",
+			"print",
+			"span",
+			"timestamp",
+			"res",
+			"query",
+			"wp jobs",
+			"WP_JOBS",
+			"wp jobs",
+			"database",
+			".site-branding {\n\tbackground-color:black;\n\tpadding:0;\n\tmargin-bottom: 0!important;\n}",
+			"form-r",
+			"form-res",
+			"form-re",
+			"errors",
+			"form-result",
+			"buyCredits",
+			"printer status",
+			"hint",
+			"file",
+			"position:fixed",
+			"$_SESSION['re",
+			"paym",
+			"sizeof",
+			"paymentMssg",
+			"buyCredi",
+			"buyCredits",
+			"input",
+			"SESSION",
+			"buy credits",
+			"errors",
+			"header",
+			"19.0 Media Queries",
+			"media",
+			"form",
+			".site-branding",
+			".site",
+			".site-brand",
+			"header",
+			"debug",
+			"fom",
+			"student",
+			"debug",
+			"cost",
+			"print_cost",
+			"buyCredits",
+			"$credits",
+			"update",
+			"$copies",
+			"$collate",
+			"$range_to",
+			"$range_from",
+			"range_from",
+			"values",
+			"submit",
+			"range_from",
+			"start",
+			"range_from",
+			"form",
+			"$wp_",
+			"$_SESSION",
+			"debug",
+			"password",
+			"auth_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WEB-INF/paperList.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "WEB-INF/classes/WebPortal.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "WEB-INF/web.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ajp-uploader.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
